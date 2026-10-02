@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 799,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "price": 2499,
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "name": "Notebook",
+    "price": 99,
+    "category": "Stationery"
+  }
+]
